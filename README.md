@@ -1,5 +1,5 @@
 <div align="center">
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20I'm heeyeun👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
+(https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20I'm heeyeun👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
