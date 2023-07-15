@@ -1,6 +1,6 @@
 <div align="center">
   
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20I'mheeyeun👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
   
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
