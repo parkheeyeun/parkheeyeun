@@ -1,3 +1,4 @@
+<div align="center">
 <h3>Hi, I'm Parkheeyeun:wave:</h3>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -18,5 +19,5 @@
   <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkheeyeun&layout=compact"><br><br>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkheeyeun&layout=compact"><br><br>
+</div>
