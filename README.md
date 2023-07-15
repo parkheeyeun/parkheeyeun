@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=78C1F3&height=250&section=header&text=Hi%20I'm%20Heeyeun😆&fontSize=80&fontColor=ffff&animation=twinkling)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -26,4 +27,6 @@
   <a href="https://velog.io/@parkheeyeun"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp
   <a href="https://www.notion.so/f464503395fb4f90b8de668a90130f2c"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>&nbsp
 </p>
-
+  </a>
+</p>
+</div>
