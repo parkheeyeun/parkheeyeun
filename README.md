@@ -1,6 +1,6 @@
 <div align="center">
   
-![slice](https://capsule-render.vercel.app/api?type=slice&color=78C1F3&height=200&text=Welcome!%20👋&fontAlign=70&rotate=13&fontAlignY=25&desc=&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=waving&color=78C1F3&height=300&section=header&text=Welcome%20My%20GitHub!&fontSize=80&fontColor=ffff)
   
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
