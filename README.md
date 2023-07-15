@@ -1,7 +1,6 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=78C1F3&height=300&section=header&text=Welcome%20My%20GitHub!&fontSize=80&fontColor=ffff)
-  
+![header](https://capsule-render.vercel.app/api?type=waving&color=78C1F3&height=300&section=header&text=Hi%20I'm%20Heeyeun😆&fontSize=80&fontColor=ffff&animation=twinkling)
+
+<div align="center">  
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
